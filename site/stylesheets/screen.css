@@ -1,0 +1,177 @@
+/* line 5 */
+.span3 .side_content {
+  clear: left;
+}
+
+/* line 8 */
+.hero-unit {
+  font-family: "Yanone Kaffeesatz", sans-serif;
+  height: 130px;
+  background-color: #faf5ec;
+}
+/* line 12 */
+.hero-unit h1 {
+  font-size: 100px;
+  color: #3a2409;
+}
+/* line 16 */
+.hero-unit .lycaon_pictus {
+  float: left;
+}
+/* line 18 */
+.hero-unit .lycaon_pictus img.wild_dog_desktop {
+  width: 675px;
+  height: 186px;
+  align: left;
+  padding: 0px 0px 10px 10px;
+}
+/* line 23 */
+.hero-unit .lycaon_pictus img.wild_dog_mobile {
+  width: 210px;
+  height: 150px;
+  align: left;
+  padding: 0px 0px 10px 10px;
+}
+
+/* line 30 */
+.white {
+  color: #9e9e9e;
+  padding: 0px;
+  margin: -12px;
+}
+
+/* line 36 */
+div #StockTwits_wrapper {
+  margin: 0px;
+}
+
+/* line 40 */
+#posts div {
+  margin-bottom: 10px;
+  font-size: 12px;
+}
+/* line 43 */
+#posts .content_date {
+  padding-left: 10px;
+  color: #3a2409;
+  font-size: 10px;
+}
+
+/* line 49 */
+#about_me img {
+  height: 100px;
+  float: left;
+  padding: 0 10px 5px 0;
+}
+
+/* line 54 */
+#our_partners {
+  margin-top: 30px;
+}
+/* line 56 */
+#our_partners img {
+  height: 167px;
+  float: left;
+  padding: 0 0px 20px 0;
+}
+
+/* line 61 */
+#tweets {
+  margin-top: 20px;
+}
+
+/* line 64 */
+footer {
+  margin-top: 100px;
+}
+
+/* line 67 */
+h1 {
+  color: #c7a67c;
+  font-family: Helvetica;
+  font-size: 34px;
+}
+
+/* line 72 */
+h2 {
+  color: #3a2409;
+  font-family: Helvetica;
+  font-size: 20px;
+}
+
+/* line 77 */
+h3 {
+  color: black;
+  font-size: 16px;
+  font-family: Helvetica;
+}
+
+/* line 82 */
+a {
+  color: #ad2905;
+}
+/* line 83 */
+a:hover {
+  color: #ad2905;
+}
+/* line 84 */
+a:visited {
+  color: #ad2905;
+}
+
+/* line 87 */
+.blogs {
+  margin-right: 271px;
+}
+
+/* line 90 */
+.aboutdog {
+  font-family: "Yanone Kaffeesatz", sans-serif;
+  font-size: 12px;
+  padding: 55px 10px 0px 840px;
+}
+
+@media all and (max-width: 1200px) {
+  /* line 97 */
+  .aboutdog {
+    visibility: hidden;
+  }
+}
+@media (min-width: 500px) {
+  /* line 103 */
+  .wild_dog_desktop {
+    display: inline;
+  }
+
+  /* line 106 */
+  .wild_dog_mobile {
+    display: none;
+  }
+}
+@media (max-width: 500px) {
+  /* line 112 */
+  .wild_dog_desktop {
+    display: none;
+  }
+
+  /* line 115 */
+  .wild_dog_mobile {
+    display: inline;
+  }
+}
+/* line 121 */
+.disclaimer {
+  color: #3a2409;
+  font-family: "Yanone Kaffeesatz", sans-serif;
+  align: left;
+  font-size: 15px;
+}
+
+/* line 129 */
+#icons a:hover {
+  text-decoration: none;
+}
+/* line 132 */
+#icons img {
+  padding: 5px 7px 0px 0px;
+}
